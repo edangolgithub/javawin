@@ -10,7 +10,7 @@ public class DatabaseConnection {
 
  //  Database credentials
  static final String USER = "root";
- static final String PASS = "mysql";
+ static final String PASS = "";
  
  public static void main(String[] args) {
  Connection conn = null;
