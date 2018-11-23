@@ -57,10 +57,10 @@ public class StudentDao {
 	}
 
 }
-class student
+/*class student
 {
 	public int studentid;
 	public String studentname;
 	public String roll;
 	public String grade;
-}
+}*/
